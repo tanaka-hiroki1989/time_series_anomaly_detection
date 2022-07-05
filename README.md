@@ -1,2 +1,10 @@
-# DNB_survey
-This repository check the performance of DNBs and other  time series  anomaly detection method.
+## Time-Series Anomalry Detecyion
+---
+
+## Licence
+Apach 2.0 
+
+yuji.0001[at]gmail.com
+
+
+
